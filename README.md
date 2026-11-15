@@ -1,5 +1,7 @@
 # 独立站合格标准自动诊断 Skill
 
+[虎皮叔叔 · hupishushu.com](https://hupishushu.com/) · [项目介绍](https://hupishushu.com/projects/audit-dtc-store/) · [中文使用指南](https://hupishushu.com/skills/audit-dtc-store/)
+
 `audit-dtc-store` 用于诊断 DTC、Shopify 或其他电商独立站是否达到基础合格标准，并生成中文优先级整改报告。
 
 它按照“转化闭环 → 投流承接 → SEO 基础 → 移动端体验”的顺序检查，优先发现影响购买、广告承接和自然流量积累的硬伤。
